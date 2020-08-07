@@ -1,0 +1,7 @@
+@use "@material/button";
+ 
+@include button.core-styles;
+
+body {
+    background-color: gray;
+}

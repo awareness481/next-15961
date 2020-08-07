@@ -1,0 +1,23 @@
+{
+  "name": "15961",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "Jesse Jafa <jesse.jafa@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@material/button": "^7.0.0",
+    "next": "^9.5.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "sass": "^1.26.10"
+  },
+  "devDependencies": {
+    "glob": "^7.1.6"
+  }
+}
